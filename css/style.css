@@ -1279,3 +1279,14 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+#resume {
+  background-color: #0062d3;
+  color: #f2f2f2;
+  padding: 24px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 15px;
+  font-weight: bold;
+}
